@@ -1,0 +1,17 @@
+Variable            Address         Value          
+------------------- --------------- ------------- 
+str		    0x7FFFF7558AA0  Hello World
+a		    0x7FFFF7558A68  5
+b		    0x7FFFF7558A6C  -5
+y		    0x7FFFF7558A70  12
+x.a		    0x7FFFF7558A80  A
+x.i		    0x7FFFF7558A90  9
+x.b		    0x7FFFF7558AA0  0
+x.p		    0x7FFFF7558AB0  9
+head		    0x148b010
+head->str	    0x148B010	    Welcome
+head->next	    0x14B020	    
+head->next->str     0x14B030        to
+head->next->next    0x14B040
+head->next->next->str 0x13B050	    cs250
+head->next->next->next 0x13B060
